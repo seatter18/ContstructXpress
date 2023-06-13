@@ -1,0 +1,11 @@
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.csproj.AssemblyReference.cache
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.csproj.SuggestedBindingRedirects.cache
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.Main.resources
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.Properties.Resources.resources
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.csproj.GenerateResource.cache
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.csproj.CoreCompileInputs.cache
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\bin\Debug\ConstructXpress.exe.config
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\bin\Debug\ConstructXpress.exe
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\bin\Debug\ConstructXpress.pdb
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.exe
+C:\Users\OR04AS\OneDrive - University of the Highlands and Islands\Teaching material\HND\Apps Dev\2. Builders Merchants\ConstructXpress\ConstructXpress\obj\Debug\ConstructXpress.pdb
